@@ -207,6 +207,11 @@ const days = [
     "id": "day3",
     "label": "第三天",
     "tasks": [
+       {
+        "id": "day3-task11",
+        "name": "获得1个转运符",
+        "points": 4000
+      },
       {
         "id": "day3-task1",
         "name": "消耗1个璞玉",
